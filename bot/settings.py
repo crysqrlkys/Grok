@@ -16,17 +16,12 @@ PREFIX = "@"
 BOT_ALIASES = ("grok", "gok", "grurk", "gork", "gonk")
 
 POSITIVE_AFFIRMATIONS = (
-    "Yeah",
-    "Fact",
-    "This post was fact checked by real american patriots. True ✅",
-    "Real",
-    "True",
-    "Yes",
-    "ofc",
-    "fr",
-    "... yes",
-    "Kinda yes",
-    "ong gang",
-    "stg it's real",
-    "what do you think dumass",
+    "No way",
+    "Nope",
+    "no",
+    "ts fake",
+    "fake",
+    "obv it's fake",
+    "its not real 🤦",
+    "... no",
 )
